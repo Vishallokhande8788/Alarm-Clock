@@ -2,17 +2,30 @@
 
 A simple alarm clock built using HTML, CSS, and JavaScript.
 
-## Demo
+## project link 
 
-[Click here to view the demo](https://alarm-clock.netlify.app/)
+[Click here to open project](https://alarm-clock-9z6.pages.dev/)
 
-## Setup
+## vite-Setup
+
+install vite
+
+```bash
+pnpm create vite@latest .
+```
+
 
 Go to the directory where you have cloned the project and run `pnpm install` to install the required dependencies.
 
 ## Run
 
-Run `pnpm run dev` to start the project.
+Run to start the project.
+
+```bash
+pnpm run dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## description
 
